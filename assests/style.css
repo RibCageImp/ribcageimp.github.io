@@ -81,7 +81,7 @@ body {
 }
 
 /* Abstract and problem statement sections */
-.Author, .abstract, .problemstatement, .datapreparation, .qualitative, .cite-as {
+.Author, .abstract, .problemstatement, .datapreparation, .qualitative, .cite-as, .acknowledgment {
     max-width: 1000px;
     margin: 20px auto;
     padding: 20px;
@@ -91,14 +91,14 @@ body {
     text-align: center;
 }
 
-.Author h3, .abstract h3, .problemstatement h3, .datapreparation h3, .qualitative h3, .cite-as h3 {
+.Author h3, .abstract h3, .problemstatement h3, .datapreparation h3, .qualitative h3, .cite-as h3, .acknowledgment h3 {
     font-size: 1.8em;
     color: #333;
     margin-bottom: 15px;
     text-align: center;
 }
 
-.abstract p, .problemstatement p {
+.abstract p, .problemstatement p, .acknowledgment p {
     font-size: 1.1em;
     line-height: 1.6;
     color: #555;
